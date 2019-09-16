@@ -1,6 +1,6 @@
 # code cheatsheets
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0edece25-af01-4c0b-b793-b2f9117be1a1/deploy-status)](https://app.netlify.com/sites/code-dnlvgl/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/697162c8-402e-4d75-86a6-eb03cecde780/deploy-status)](https://app.netlify.com/sites/notes-dnlvgl/deploys)
 
 My collection of programming related cheatsheets and code snippets. Build with vuepress.
 
