@@ -4,7 +4,7 @@
 
 My collection of programming related cheatsheets and code snippets. Build with vuepress.
 
-Hosted on [netlify](https://code-dnlvgl.netlify.com/)
+Hosted on [netlify](https://notes-dnlvgl.netlify.com/)
 
 ## development
 
